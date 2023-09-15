@@ -1,0 +1,7 @@
+Cele:
+
+1----  Prosta aplikacja desktopowa obsługująca prostą bazę danych
+2----  Aplikację Dzienniczek w której mógłbym zapisywać swoje plany na następny dzień
+3----  Grę komputerową coś w stylu tower defence lub rts.
+4----  Zdobyć odpowiednie umiejętności które pomogą mi znaleźć praktykę
+5----  Nabyc umiejętności związane z sztuczną inteligencją
